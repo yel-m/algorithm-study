@@ -1,3 +1,4 @@
 | No  | Site | Title                                           | 
 |-----|------|-------------------------------------------------|
 | 1   | BOJ | [별 찍기 - 1](https://www.acmicpc.net/problem/2438)  |
+| 2   | BOJ | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) |
