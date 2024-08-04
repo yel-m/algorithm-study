@@ -6,3 +6,4 @@
 | 4   | BOJ | [별 찍기 - 4](https://www.acmicpc.net/problem/2441) |
 | 5   | BOJ | [별 찍기 - 5](https://www.acmicpc.net/problem/2442) |
 | 5   | BOJ | [별 찍기 - 6](https://www.acmicpc.net/problem/2443) |
+| 5   | BOJ | [별 찍기 - 7](https://www.acmicpc.net/problem/2444) |
