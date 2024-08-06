@@ -8,3 +8,5 @@
 | 6   | BOJ | [별 찍기 - 6](https://www.acmicpc.net/problem/2443) |
 | 7   | BOJ | [별 찍기 - 7](https://www.acmicpc.net/problem/2444) |
 | 8   | BOJ | [카이사르 암호](https://www.acmicpc.net/problem/5598) |
+| 9   | BOJ | [최댓값](https://www.acmicpc.net/problem/2562) |
+
