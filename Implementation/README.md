@@ -11,4 +11,5 @@
 | 9   | BOJ | [최댓값](https://www.acmicpc.net/problem/2562) |
 | 10   | BOJ | [팩토리얼](https://www.acmicpc.net/problem/10872) |
 | 11   | BOJ | [약수](https://www.acmicpc.net/problem/1037) |
+| 12   | BOJ | [홀수](https://www.acmicpc.net/problem/2576) |
 
