@@ -13,5 +13,6 @@
 | 11   | BOJ | [약수](https://www.acmicpc.net/problem/1037) |
 | 12   | BOJ | [홀수](https://www.acmicpc.net/problem/2576) |
 | 12   | BOJ | [평균](https://www.acmicpc.net/problem/1546) |
+| 13   | BOJ | [최소, 최대](https://www.acmicpc.net/problem/10818) |
 
 
