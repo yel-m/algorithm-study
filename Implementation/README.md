@@ -15,4 +15,5 @@
 | 12   | BOJ | [평균](https://www.acmicpc.net/problem/1546) |
 | 13   | BOJ | [최소, 최대](https://www.acmicpc.net/problem/10818) |
 | 14   | BOJ | [알파벳 찾기](https://www.acmicpc.net/problem/10809) |
+| 15   | BOJ | [이진수](https://www.acmicpc.net/problem/3460) |
 
